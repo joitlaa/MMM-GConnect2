@@ -1,5 +1,5 @@
 {
-  "name": "MMM-GConnect",
+  "name": "MMM-GConnect2",
   "version": "1.0.0",
   "description": "Magic Mirror² module to display sports data from Garmin Connect.",
   "scripts": {
@@ -12,5 +12,5 @@
     "htm": "3.1.1",
     "preact": "10.10.0"
   },
-  "repository": "github:tderflinger/MMM-GConnect"
+  "repository": "github:joitlaa/MMM-GConnect2"
 }
