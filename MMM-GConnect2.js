@@ -1,6 +1,6 @@
 let currentData = {};
 
-Module.register("MMM-GConnect", {
+Module.register("MMM-GConnect2", {
   defaults: {
     loginName: null,
     password: null
